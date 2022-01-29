@@ -30,4 +30,5 @@ Format
 
 ## [Aryan Patel](https://github.com/patelaryan7751/)
 
+## [Aishwarya Singh](https://github.com/combatantash)
 
